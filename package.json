@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gilberto",
+	"version": "1.0.0",
 	"keywords": [ "freecodecamp"],
 	"license": "MIT",
 	"description": "a test for course",
